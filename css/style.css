@@ -1,0 +1,41 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+
+.text{color: white;}
+.text2{color:rgb(26, 188, 156)}
+
+.last-footer{background-color: rgb(44, 62, 80);}
+
+.first-colors{
+    background-color: rgb(26, 188, 156);
+    color: white;
+}
+
+nav{
+    opacity: 0.5;
+}
+
+.loghi{
+    border: 1px solid white;
+    border-radius:22px;
+    padding:0.6em ;
+}
+
+button{
+    background-color:rgb(26, 188, 156);
+    border-radius: 12px;
+    border: 3px solid white;
+}
+
+footer section{background-color:rgb(58, 84, 109);}
+
+.anteprima{
+    min-height:calc(100vh);
+    background-image: url(https://cdn.wallpapersafari.com/83/49/NQhGDF.png);
+    background-position:top;
+    background-size: cover;
+}
+
+.testo-anteprima{
+    max-height:250px;
+}
+
